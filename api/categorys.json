@@ -1,0 +1,894 @@
+{
+    "category": [
+        {
+            "title": "手机数码",
+            "children": [
+                {
+                    "title": "热门产品",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "小米",
+                            "imgPic": "../../../statics/imgs/O1CN01BskDXS29zFfws06J4_!!1714128138.jpg_430x430q90.jpg",
+                            "id": "92"
+                        },
+                        {
+                            "goodsName": "华为",
+                            "imgPic": "../../../statics/imgs/TB1dSkrhVzqK1RjSZFvnu3B7VXa_030725.jpg_430x430q90.jpg",
+                            "id": "93"
+                        },
+                        {
+                            "goodsName": "三星",
+                            "imgPic": "../../../statics/imgs/O1CN01Y1t39622C3pl3ksHz_!!0-item_pic.jpg_430x430q90.jpg",
+                            "id": "91"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        },
+                        {
+                            "goodsName": "OPPO",
+                            "imgPic": "../../../statics/imgs/TB2vY4aknCWBKNjSZFtXXaC3FXa_!!901409638.jpg_430x430q90.jpg",
+                            "id": "95"
+                        }
+                    ]
+                },
+                {
+                    "title": "新款产品",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "电脑办公",
+            "children": [
+                {
+                    "title": "热卖产品",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "家用电器",
+            "children": [
+                {
+                    "title": "厨房小电",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "美妆护肤",
+            "children": [
+                {
+                    "title": "热门美妆",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "男装",
+            "children": [
+                {
+                    "title": "热门男装",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "男鞋",
+            "children": [
+                {
+                    "title": "热门男鞋",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "女装",
+            "children": [
+                {
+                    "title": "热门女装",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "母婴童装",
+            "children": [
+                {
+                    "title": "热门商品",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "图书音像",
+            "children": [
+                {
+                    "title": "热门图书",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "运动户外",
+            "children": [
+                {
+                    "title": "热门产品",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "内衣配饰",
+            "children": [
+                {
+                    "title": "热卖产品",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "食品生鲜",
+            "children": [
+                {
+                    "title": "进口食品",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "酒水饮料",
+            "children": [
+                {
+                    "title": "热卖产品",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "家居厨具",
+            "children": [
+                {
+                    "title": "厨房小电",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "个护清洁",
+            "children": [
+                {
+                    "title": "畅销推荐",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "医疗保健",
+            "children": [
+                {
+                    "title": "中西药品",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "宠物生活",
+            "children": [
+                {
+                    "title": "热卖产品",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "礼品鲜花",
+            "children": [
+                {
+                    "title": "礼品",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "农资绿植",
+            "children": [
+                {
+                    "title": "花卉植物",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "title": "汽车生活",
+            "children": [
+                {
+                    "title": "汽车用品",
+                    "subtitle": [
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        },
+                        {
+                            "goodsName": "iPhone",
+                            "imgPic": "../../../statics/imgs/shop_img1.jpg",
+                            "id": "90"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

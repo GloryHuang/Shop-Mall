@@ -1,0 +1,21 @@
+{
+  "status": 0,
+  "messages": [
+    {
+      "href": "http://localhost:5008/#/shopdetail/91",
+      "img_url": "../statics/imgs/2.jpg"
+    },
+    {
+      "href": "http://localhost:5008/#/shopdetail/92",
+      "img_url": "../statics/imgs/3.jpg"
+    },
+    {
+      "href": "http://localhost:5008/#/shopdetail/93",
+      "img_url": "../statics/imgs/4.jpg"
+    },
+    {
+      "href": "http://localhost:5008/#/shopdetail/94",
+      "img_url": "../statics//imgs/5.jpg"
+    }
+  ]
+}
